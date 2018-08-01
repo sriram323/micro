@@ -1,0 +1,14 @@
+{
+  "gateway": {
+    "listen": ":8080"
+  },
+  "backends": [
+    {
+      "package": "greeter",
+      "backend": "localhost:9090",
+      "services": {
+        "GreeterService": "/greeter/hello"
+      }
+    }
+  ]
+}
