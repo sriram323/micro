@@ -21,7 +21,7 @@ echo " -> protos from '${PROTOS_PATH}'"
 echo " -> config from '${CONFIG_FILE}'"
 echo " -> template from '${TEMPLATE_PATH}'"
 echo " -> into '${DESTINATION_PATH}'"
-
+iiiiiiiiiiiiiiiiii
 STUBS_PATH=${DESTINATION_PATH}/stubs
 SWAGGER_PATH=${DESTINATION_PATH}/swagger-ui
 DEFINITIONS_PATH=${DESTINATION_PATH}/definitions
