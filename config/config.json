@@ -6,6 +6,7 @@
     {
       "package": "greeter",
       "backend": "localhost:9090",
+      "API_KEY": "iaCELgL.0imfnc4mVLWwsAawjYr4Rx-Bf50DDptlz"
       "services": {
         "GreeterService": "/greeter/hello"
       }

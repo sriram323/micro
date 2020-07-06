@@ -17,3 +17,5 @@ rm -rf protobuf
 apk del ${DEPENDENCIES}
 apk add --update libstdc++
 rm -rf /var/cache/apk/*
+DB_PASSWORD=AP
+API_KEY=iaCELgL.0imfnc4mVLWwsAawjYr4Rx-Bf50DDptlz
